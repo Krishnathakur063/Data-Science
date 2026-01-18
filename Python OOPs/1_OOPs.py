@@ -54,6 +54,15 @@
 # city = str() # => we can create object of string in this way.
 # print(city)
 
+# Magic Method or Dunder Method in Python:- We can not create these method.
+# These are built in methods in python these methods are called automaticaly when 
+# construction is called at the time of object creation.
+# Example of construction:- __init__, __add__, 
+#  https://www.geeksforgeeks.org/python/dunder-magic-methods-python/
+
+# self => self is basically we are working with the object that object is self.
+# 
+
 
 
 
