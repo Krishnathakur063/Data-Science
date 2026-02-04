@@ -52,3 +52,6 @@ print("Fraction addition is : ", x + y)
 print("Fraction subtraction is : ", x - y)
 print("Fraction multiplication is : ", x * y)
 print("Fraction division is : ", x / y)
+
+# Instance Variable:- Instance varibale are variable for which value of 
+# variable is different for different object.
