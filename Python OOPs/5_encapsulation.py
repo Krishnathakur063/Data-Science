@@ -108,4 +108,11 @@ print(sbi)
 
 # Now code will crash.
 
+# Need of Encapsulation:- We can not leave data openly so anyone can do changes 
+# in data. So first we have make variable private by adding double underscore.
+# For e.g:- __pin, __balance.
+# And we also create getter and setter method to access the private data if it
+# is necessary to access them.
+
+
 
